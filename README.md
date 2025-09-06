@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **react framework.**
 
 - 📫 How to reach me **lekamgeyashara1@gmail.com**
+                     **http://linkedin.com/in/yashara-lekamge-4600902a0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
