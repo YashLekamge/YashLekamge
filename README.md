@@ -23,7 +23,8 @@ I am a passionate IT student dedicated to ensuring software excellence through m
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Z3N6NXpueG56Z3N6NXpueG56Z3N6NXpueG56Z3N6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="100%" alt="QA Automation" />
+        <!--  Professional QA/Coding GIF -->
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpueG56Z3N6NXpueG56Z3N6NXpueG56Z3N6NXpueG56Z3N6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="QA Automation Professional" />
       </td>
       <td width="50%">
         <ul>
