@@ -15,7 +15,6 @@
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <!-- Forced Dark Theme for Icons -->
     <img src="https://skillicons.dev/icons?i=js,py,react,html,css,tailwind,cypress,postman,git,github,vscode,figma&theme=dark" />
   </a>
 </p>
@@ -27,7 +26,6 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="45%" align="center">
-        <!-- New Professional & Clean QA GIF (No Memes) -->
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Z3N6NXpueG56Z3N6NXpueG56Z3N6NXpueG56Z3N6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" style="border-radius: 10px; border: 2px solid #10b981;" />
       </td>
       <td width="55%" style="padding-left: 20px;">
@@ -46,14 +44,14 @@
 
 ### 📊 GitHub Live Statistics
 <p align="center">
-  <!-- Stats card with Forced Portfolio Colors -->
+  <!-- Stats card: Forced White Text and Emerald Titles -->
   <img src="https://github-readme-stats.vercel.app/api?username=YashLekamge&show_icons=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=ffffff&border_color=10b981" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashLekamge&layout=compact&bg_color=0d1117&title_color=10b981&text_color=ffffff&border_color=10b981" width="48%" />
 </p>
 
 <p align="center">
-  <!-- Streak card with Forced Portfolio Colors -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashLekamge&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&stroke=10b981&currStreakNum=ffffff" width="100%" />
+  <!-- Streak card: Fixed side numbers and main streak visibility -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashLekamge&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981&currStreakNum=ffffff&sideNums=ffffff&sideLabels=10b981&dates=ffffff&stroke=10b981" width="100%" />
 </p>
 
 ---
